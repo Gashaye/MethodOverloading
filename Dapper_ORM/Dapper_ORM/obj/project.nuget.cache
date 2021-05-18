@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJacrQS3NhCB3QxqVe2ci/ltEsyXG06nxS86Q9qIcdolzCUi7TQ+F6DILlELDGlbvQhwygoApIVwXpTPL/APYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gasha\\Desktop\\Repos\\Codes\\Dapper_ORM\\Dapper_ORM\\Dapper_ORM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
